@@ -1,0 +1,33 @@
+.smallcon {
+    background-color: #2eb4b4;
+    padding: 90px 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right {
+    width: 500px;
+}
+
+.title {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 1em;
+    color: #F9FAF8;
+}
+
+.subtitle {
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: 300;
+    margin: 15px 0;
+}
+
+
+
+.left img {
+    width: 400px;
+    height: auto;
+    border-radius: 15px;
+}
+
